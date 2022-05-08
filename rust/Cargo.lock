@@ -59,6 +59,7 @@ dependencies = [
  "hex",
  "itertools",
  "js-sys",
+ "libc",
  "linked-hash-map",
  "noop_proc_macro",
  "num-bigint",

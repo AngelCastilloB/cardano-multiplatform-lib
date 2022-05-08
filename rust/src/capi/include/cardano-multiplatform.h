@@ -1,0 +1,1 @@
+extern float get_float();

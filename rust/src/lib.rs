@@ -34,6 +34,7 @@ use cbor_event::{
     se::{Serialize, Serializer},
 };
 
+pub mod capi;
 pub mod traits;
 pub mod address;
 pub mod chain_core;
